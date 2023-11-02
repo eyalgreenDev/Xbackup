@@ -36,9 +36,8 @@ Follow the prompts to enter the source folder path and choose to make another ba
 
 ---
 ## <div align="center">Acknowledgments</div>
-<div align="center">
-- Made with 💖 by eyalgreenDev
+
+- Made with 💖 by [eyalgreenDev](https://eyal.green/)
 - This project was created as a learning exercise.
-</div>
 
 ---
